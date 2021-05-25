@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/derpmagician/monty">[ Monty ]</a>
+   <a href="https://github.com/kateincoding/monty">[ Monty ]</a>
 </p>
 
 <p align = "center">
